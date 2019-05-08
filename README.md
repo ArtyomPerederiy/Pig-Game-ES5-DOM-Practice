@@ -1,7 +1,7 @@
 # Pig Game ES5 DOM Practice 🎲 - v1
 ![Image of this project](https://github.com/ArtyomPerederiy/Pig-Game-ES5-DOM-Practice/blob/master/preview01.png?raw=true)
 
-# Rules
+## Rules
 
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
@@ -13,7 +13,7 @@
 # Pig Game ES5 DOM Practice 🎲🎲 - v2
 ![Image of this project](https://github.com/ArtyomPerederiy/Pig-Game-ES5-DOM-Practice/blob/master/preview02.png?raw=true)
 
-# CODING CHALLENGE
+## CODING CHALLENGE
 
 Change the game to follow these rules:
 
