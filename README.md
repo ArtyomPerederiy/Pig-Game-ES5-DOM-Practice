@@ -1,3 +1,8 @@
+# What is it?
+
+Study project at Financial University under the Government of the Russian Federation (c) 2019
+
+
 # Pig Game ES5 DOM Practice 🎲 - v1
 ![Image of this project](https://github.com/ArtyomPerederiy/Pig-Game-ES5-DOM-Practice/blob/master/preview01.png?raw=true)
 
